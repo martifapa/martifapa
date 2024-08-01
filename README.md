@@ -8,5 +8,5 @@ I studied History and worked several years in business-related roles, and I have
 
 ## Check out my:
 - **[Portfolio](#)**:
-- **[LinkedIn]: (https://www.linkedin.com/in/martifabrega/)**
+- **[LinkedIn](https://www.linkedin.com/in/martifabrega/)**
 - **Email**: martifabrega@gmail.com
