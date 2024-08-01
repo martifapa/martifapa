@@ -7,6 +7,6 @@ I also have experience in Python, mainly for web development (Django), data anal
 I studied History and worked several years in business-related roles, and I have a passion for tech and computer programming. I am a self-motivated learner who loves to tinker with problems and come up with creative solutions. Outside of work, I enjoy reading about almost any topic (from History to Science) and keeping fit.
 
 ## Check out my:
-- **[Portfolio](#)**:
+- **[Portfolio](#)**
 - **[LinkedIn](https://www.linkedin.com/in/martifabrega/)**
 - **Email**: martifabrega@gmail.com
